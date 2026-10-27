@@ -1,3 +1,3 @@
 # 李鹏韬
 ## Pengtao Li
-## UESTC
+## University of Electronic Science and Technology of China
